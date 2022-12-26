@@ -1,4 +1,4 @@
-
+Collection of exercise solved in school (Develhope) to deepen my knowledge of Java
 
 # Exercise: arrays-1
 * define a testing class with a `main()` method where you:
